@@ -4,4 +4,5 @@
     $b=2;
     echo "<br>";
     echo $a+$b;
+    echo $a-$b;
 ?>
